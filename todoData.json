@@ -1,0 +1,7 @@
+[
+  { "task": "get milk", "who": "Scott", "dueDate": "today", "done": false },
+  { "task": "get broccoli", "who": "Elisabeth", "dueDate": "today", "done": false },
+  { "task": "read a book", "who": "Michael", "dueDate": "today", "done": false },
+  { "task": "call a friend", "who": "Joseph", "dueDate": "today", "done": false },
+  { "task": "lift weights", "who": "Jill", "dueDate": "today", "done": false }
+]

@@ -1,0 +1,7 @@
+Gist For Setup
+Access Token: 92f8d5b8e23d363c8e5312ae49dd07e985a1b4d8
+Gist Id: 0ff3b2d963229c7027c898a8b9185947
+
+
+ts-r: cdb970c38c129be9cda00b8a5c1c8b09
+public: 53038e42adb28db6cd70af9ea4f42b0b

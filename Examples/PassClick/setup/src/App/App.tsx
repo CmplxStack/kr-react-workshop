@@ -1,5 +1,6 @@
-import React from "react";
 import "./App.css";
+import React from "react";
+import { Counter } from "./Components/Counter";
 
 const App: React.FC = () => {
   return (
@@ -7,6 +8,9 @@ const App: React.FC = () => {
       <header className="App-header">
         <img src={process.env.PUBLIC_URL + "/KRIcon.png"} className="App-logo" alt="logo" />
       </header>
+      <div>
+        <Counter />
+      </div>
     </div>
   );
 };

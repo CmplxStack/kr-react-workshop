@@ -1,1 +1,1 @@
-# kr-react-workshop
+# Kessel Run React Workshop
